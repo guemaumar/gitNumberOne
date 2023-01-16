@@ -1,0 +1,1 @@
+\n "Esto es un archivo de fuente c++"
